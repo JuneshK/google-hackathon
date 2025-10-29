@@ -41,11 +41,10 @@ For this project I intend to built a chrome extensions which will have a feature
 
 
 
-##  🚀 Software Architecture <a name = "Software Architecture"></a>
+##  🚀 Software Architecture <a name = "System Design"></a>
 
 
-- [Google Docs](https://docs.google.com/document/d/16Oh6VlEyygfH_A7lSQWhes0lK2TtUh-wg_njnJ9LTnQ/edit?usp=sharing) - View file to see the System Architecture 
-
+- [Google Docs](https://docs.google.com/document/d/1sV751AAwvuBRCIP2oqekhdZM8vMNKaZtpbGtiVaYmTI/edit?usp=sharing) - View file to see the System Design
 
 
 ## <a name="quick-start">🤸 Quick Start</a>
@@ -64,8 +63,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JuneshK/ai-policy-helper-starter-pack.git
-cd ai-policy-helper-starter-pack
+git clone https://github.com/JuneshK/google-hackathon.git
+cd google-hackathon
 ```
 
 
@@ -109,29 +108,6 @@ Open [http://localhost:6333](http://localhost:6333) in your browser to view the 
 
 <br>
 
-**Running the Project Alternative ( Method Two )**
-
-```bash
-docker-compose up --build
-```
-
-1.Open Docker Engine<br>
- <img src="docker_engine.png"  width="500" height="500"> <br>
-2. Run Each Container Manually<br>
-3. Open http://localhost:3000 to see the output .
-
-
-## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run automated tests for this system.
-
-### Break down into unit tests
-Explain what these tests test and why
-
-```
-docker compose run --rm backend pytest -q
-```
-<br>
-<small>⚠️ Note: The provided <code>docker compose run --rm backend pytest -q</code> setup fails due to issues with the Docker backend and connecting to the Qdrant database. Hence , testing cannot be done.</small>
 
 ## 📁 Project Structure
 
@@ -174,10 +150,8 @@ ai-policy-helper/
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [QDrant](https://qdrant.tech/) - Database
 - [Next.js](https://reactnative.dev/) - Web Framework
 - [TailwindCSS](https://tailwindcss.com/) - CSS Framework
-- [Python](https://www.python.org/) - Backend Language
 - [Typescript](https://www.typescriptlang.org/docs/) - Frontend Language
 
 
@@ -185,7 +159,7 @@ ai-policy-helper/
 - Myself
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Thanks to Arrivo for this project and giving me this oppurtunity to work on this project
+
   
 ## 🎉 References<a name = "reference"></a>
 - [TailwindCSS](https://tailwindcss.com/) - How to Import Tailwind on Next.js
