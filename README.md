@@ -15,8 +15,8 @@
  
 </p>
 
-<h3 align="center">AI Policy </h3>
-<p align="center"> Interview Assessment From ARRIVO 
+<h3 align="center">Auto Reply Email Chrome Extension</h3>
+<p align="center"> This project is intended to be built to solve every employees pain which is to reply many emails and keep repeating the same answers many times . Hence , i decided to solve this issue by creating a chrome extensions .
     <br> 
 </p>
 
@@ -38,13 +38,7 @@ I was given a task by ARRIVO a startup company to build a RAG AI Policy Helper .
 
 ## 🏁 Features <a name = "features"></a>
 
-🚀 Ingestion – Ingests policy & product document
 
-🔐 Provide Citations – Gives answers with citations title and section
-
-🌐 Offline mode  – Can run fully offline with stub models and built-in embeddings.
-
-🛡️ Online Mode – Can run fully online with OpenAI API and Ollama
 
 
 ##  🚀 Software Architecture <a name = "Software Architecture"></a>
